@@ -6,6 +6,7 @@ int main() {
     scanf("%lf%lf", &a, &b);
     printf("Summation: a + b = %.2lf\n", a+b);
     printf("Subtraction: a - b = %.2lf\n", a-b);
+    printf("Division: a/b= %.2lf\n",a/b);
     printf("press any key to exit");
     getch();
     return 0;
