@@ -1,5 +1,5 @@
 # Project Overview
-It can calculate two numbers (currently addition and subtraction)
+It can calculate two numbers, has option to select among Addition, Subtraction, Multiplication and Division
 
 # How to run
 Download the repository, run following command on cmd to compile calculator.c
